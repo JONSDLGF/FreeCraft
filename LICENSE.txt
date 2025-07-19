@@ -1,0 +1,17 @@
+Copyright (c) 2025 JM.
+
+Todos los derechos reservados.
+
+Este software es distribuido únicamente con fines educativos y demostrativos.  
+No se permite copiar, modificar, redistribuir ni reutilizar directamente ningún fragmento del código fuente sin autorización previa y explícita del autor.
+
+Se permite observar y estudiar el código con fines de aprendizaje.  
+Inspirarse en su lógica y estructura está permitido, siempre que no se copie el código literal o sustancial.
+
+Queda prohibido el uso comercial, publicación parcial o total del código, o su inclusión en otros proyectos, sin el consentimiento por escrito del autor.
+
+Si estás interesado en apoyar el desarrollo, proponer ideas o colaborar, puedes donar voluntariamente o enviar sugerencias.  
+Toda ayuda será bienvenida para seguir mejorando el proyecto.
+
+Contacto por redes sociales (Gmail no admitido): https://jonsdlgf.github.io/  
+Donaciones: por ahora no habilitadas.
