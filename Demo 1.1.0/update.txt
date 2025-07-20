@@ -1,0 +1,5 @@
+renderizado de chunks primera parte
+
+necesario:
+    mas optimizacion y jestionar mejor los chunks
+    pero se puede hacer mejor
