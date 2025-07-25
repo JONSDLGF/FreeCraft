@@ -3,7 +3,10 @@ Fecha: 19/07/2025
 
 Más información en: LICENSE.txt
 
-mas para el siguiente update "iconos y organizacion"
+funciones implementadas en 1.1 y 1.1.1:
+   Demo 1.1.1 pantalla completa y configuracion en json
+   Launcher 1.1 poder instalar en appdata, ejecutar y desinstalar mas un portapapeles de errores
+   y iconos en las aplicaciones
 
 ────────────────────────────────────────────
 JERARQUÍA DE VERSIONES
