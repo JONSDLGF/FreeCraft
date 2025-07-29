@@ -3,10 +3,9 @@ Fecha: 19/07/2025
 
 Más información en: LICENSE.txt
 
-funciones implementadas en 1.1 y 1.1.1:
-   Demo 1.1.1 pantalla completa y configuracion en json
-   Launcher 1.1 poder instalar en appdata, ejecutar y desinstalar mas un portapapeles de errores
-   y iconos en las aplicaciones
+un nuevo jestion de actualizaciones para el launcher en 1.2 :)
+haora podras actualizar tu launcher sin entrar y descargar nada del repo
+solo tendras que actualizar en el boton actualizar
 
 ────────────────────────────────────────────
 JERARQUÍA DE VERSIONES
