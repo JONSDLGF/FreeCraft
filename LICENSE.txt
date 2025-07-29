@@ -4,6 +4,7 @@ Todos los derechos reservados.
 
 Este software es distribuido únicamente con fines educativos y demostrativos.  
 No se permite copiar, modificar, redistribuir ni reutilizar directamente ningún fragmento del código fuente sin autorización previa y explícita del autor.
+Excepto en el caso de imágenes y archivos de configuración como JSON.
 
 Se permite observar y estudiar el código con fines de aprendizaje.  
 Inspirarse en su lógica y estructura está permitido, siempre que no se copie el código literal o sustancial.
