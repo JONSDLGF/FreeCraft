@@ -4,8 +4,7 @@ Fecha: 31/07/2025
 Más información en: LICENSE.txt
 
 Reportes:
-la demo 1.2.1 agrega muchas cosas como que haora se puede jugar pero no se recomienda aumentar el RENDER_DISTANCE,
-y muy pronto podras abrir menus en la demo 1.3.0 :)
+ya la version 1.3.0 vere si podria mejorarlo y sacer al 1.3.1 para agregar algunos menus mas y un logo
 
 ────────────────────────────────────────────
 JERARQUÍA DE VERSIONES
@@ -29,7 +28,3 @@ JERARQUÍA DE VERSIONES
 
 ➤ Iota
    - Versiones para dispositivos móviles o consolas
-Iota_X.X.X_Xi      → Para iPhone
-Iota_X.X.X_Pi      → Para consolas
-
-────────────────────────────────────────────
