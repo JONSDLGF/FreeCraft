@@ -1,11 +1,11 @@
 Hecho por: JM
-Fecha: 19/07/2025
+Fecha: 31/07/2025
 
 Más información en: LICENSE.txt
 
-un nuevo jestion de actualizaciones para el launcher en 1.2 :)
-haora podras actualizar tu launcher sin entrar y descargar nada del repo
-solo tendras que actualizar en el boton actualizar
+Reportes:
+la demo 1.2.1 agrega muchas cosas como que haora se puede jugar pero no se recomienda aumentar el RENDER_DISTANCE,
+y muy pronto podras abrir menus en la demo 1.3.0 :)
 
 ────────────────────────────────────────────
 JERARQUÍA DE VERSIONES
@@ -29,16 +29,6 @@ JERARQUÍA DE VERSIONES
 
 ➤ Iota
    - Versiones para dispositivos móviles o consolas
-
-────────────────────────────────────────────
-SUB-PREFIJOS
-────────────────────────────────────────────
-
-Zeta_X.X.X_Ómicron → Instalación mínima
-Zeta_X.X.X_Lambda  → Versión optimizada
-Zeta_X.X.X_Omega   → Versión completa + algunos packs
-
-Iota_X.X.X_Kappa   → Para Android
 Iota_X.X.X_Xi      → Para iPhone
 Iota_X.X.X_Pi      → Para consolas
 
