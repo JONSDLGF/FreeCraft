@@ -1,0 +1,8 @@
+{
+    "width": 800,
+    "height": 600,
+    "conf": {
+        "world": "data/world/",
+        "skin":  "data/skin.png"
+    }
+}
