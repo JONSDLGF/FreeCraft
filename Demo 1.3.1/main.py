@@ -184,7 +184,7 @@ def menu(argv:list[str]):
     gl.glMatrixMode(gl.GL_MODELVIEW)
     gl.glLoadIdentity()
 
-    ver = "1.3.0"
+    ver = "1.3.1"
     debug = True
 
     with open(os.path.join(os.path.dirname(__file__), "assets", "conf.json"), "r") as f:
@@ -280,4 +280,5 @@ def menu(argv:list[str]):
             return 0
 
 if __name__ == "__main__":
+
     sys.exit(menu(sys.argv))
