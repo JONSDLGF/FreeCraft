@@ -4,7 +4,7 @@ Fecha: 31/07/2025
 Más información en: LICENSE.txt
 
 Reportes:
-agregamos un nuebo chat y nuebos menus en la 1.3.1
+nuebos menus y un baner nuebo :) 1.3.2
 
 ────────────────────────────────────────────
 JERARQUÍA DE VERSIONES
